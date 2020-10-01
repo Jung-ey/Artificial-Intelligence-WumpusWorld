@@ -1,3 +1,5 @@
+""" What about adding comments so that anyone reading your codes could easily understand and learn something.
+Yeah its time consuming but, it will help the learners and viewers."""
 import sys
 from logical_expression import *
 
